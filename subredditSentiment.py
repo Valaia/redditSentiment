@@ -1,6 +1,6 @@
 import pip
 import praw
-from textblob import TextBlob
+import TextBlob
 import math
 
 
