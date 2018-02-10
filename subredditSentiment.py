@@ -1,3 +1,4 @@
+import pip
 import praw
 from textblob import TextBlob
 import math
